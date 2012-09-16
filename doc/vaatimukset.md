@@ -3,7 +3,7 @@
 - Kokonais- ja osaprojektien jatkokehitys ja ylläpito kilpailutetaan erikseen.
 
 # Vaatimukset toimittajille
-- Ohjelmistonkehitys on tehtävä agile metodologialla, kuten Scrum. Tarjoajan on esitettävä referenssit vähintään viidestä agile-metodologialla toteutetusta aiemmasta projektista, joista yhden on oltava samassa mittakaavassa, viimeisen viiden vuoden ajalta. Tarjoukseen on sisällytettävä kuvaus käytettävästä metodologiasta.
+- Ohjelmistonkehitys on tehtävä agile metodologialla, kuten Scrum. Tarjoajan on esitettävä referenssit vähintään viidestä agile-metodologialla toteutetusta aiemmasta projektista viimeisen viiden vuoden ajalta, joista yhden on oltava samassa mittakaavassa. Tarjoukseen on sisällytettävä kuvaus käytettävästä metodologiasta.
 - Omistusoikeudet toteutettuun ohjelmistoon ja kaikkiin sen osiin, poislukien muokkaamattomat valmiskomponentit, pitää siirtää tilaajalle.
 - Käytetyissä valmiskomponenteissa on suosittava ensisijaisesti avoimen lähdekoodin komponentteja.
 - Tilaaja päättää tarjoajan esittämien ohjelmistossa käytettävien valmiskomponenttien hyväksymisestä.
