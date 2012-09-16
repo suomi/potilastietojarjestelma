@@ -8,5 +8,7 @@
 - Käytetyissä valmiskomponenteissa on suosittava ensisijaisesti avoimen lähdekoodin komponentteja.
 - Ohjelmistokehitys on soveltuvin osin tehtävä käyttäen hyväksi avointa ja julkista ohjelmistokehitys- ja versionhallintapalvelua, kuten GitHub. Tarjoukseen on sisällytettävä kuvaus siitä miten kolmansien osapuolten ilmoittamat virheet otetaan vastaan ja korjataan ohjelmistokehitysprosessissa. Tarjoukseen on sisällytettävä kuvaus siitä miten tällä tavalla taataan ohjelmistonkehityksen läpinäkyvyys ja laatu.
 - Toteutettu ohjelmisto on lisensoitava soveltuvin osin GPL tai LGPL lisensseillä.
+- Ohjelmistokehitys on tehtävä valitun agile-metodologian mukaisesti, kuitenkin enintään kolmen viikon pituisissa iteraatioissa.
 - Tarjouksen hinnoittelu on tehtävä hinta/iteraatio periaatteella. Ohjelmistokehitystiimit on määriteltävä tarjouksessa, ja kehittäjien ansioluettelot liitetään tarjoukseen.
+- Product Owner, tai vastaava rooli valitussa agile-metodologiassa, on asiakkaan edustaja. Rooli voidaan täyttää riippumattomalla konsultilla, jolla ei ole sidonnaisuuksia tarjoajaan.
 - Tarjoukseen sisällytetään alustava arvio tarvittavien iteraatioiden määrästä. Asiakkaalla on vapaus tehdä muutoksia ohjelmiston vaatimuksiin myös myöhäisessä ohjelmistonkehityksen vaiheessa Agile-periaatteiden mukaisesti, jolloin iteraatiokierroksia tehdään lisää tarvittava määrä kunnes vaatimukset on täytetty. Asiakkaalla on vapaus lopettaa projekti mihin tahansa iteraatioon.
