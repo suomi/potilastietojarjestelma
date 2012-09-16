@@ -8,7 +8,7 @@
 - Käytetyissä valmiskomponenteissa on suosittava ensisijaisesti avoimen lähdekoodin komponentteja.
 - Tilaaja päättää tarjoajan esittämien ohjelmistossa käytettävien valmiskomponenttien hyväksymisestä.
 - Ohjelmistokehitys on soveltuvin osin tehtävä käyttäen hyväksi avointa ja julkista ohjelmistokehitys- ja versionhallintapalvelua, kuten GitHub. Tarjoukseen on sisällytettävä kuvaus siitä miten kolmansien osapuolten ilmoittamat virheet otetaan vastaan ja korjataan ohjelmistokehitysprosessissa. Tarjoukseen on sisällytettävä kuvaus siitä miten tällä tavalla taataan ohjelmistonkehityksen läpinäkyvyys ja laatu.
-- Toteutettu ohjelmisto on lisensoitava soveltuvin osin GPL tai LGPL lisensseillä.
+- Toteutettu ohjelmisto on lisensoitava soveltuvin osin GPL tai LGPL lisensseillä. Tarvittaessa lisensointi voidaan suorittaa valmiin tuotoksen luovutusvaiheessa.
 - Ohjelmistokehitys on tehtävä valitun agile-metodologian mukaisesti, kuitenkin enintään kolmen viikon pituisissa iteraatioissa.
 - Tarjouksen hinnoittelu on tehtävä hinta/iteraatio periaatteella. Ohjelmistokehitystiimit on määriteltävä tarjouksessa, ja kehittäjien ansioluettelot liitetään tarjoukseen.
 - Product Owner, tai vastaava rooli valitussa agile-metodologiassa, on tilaajan edustaja. Rooli voidaan täyttää riippumattomalla konsultilla, jolla ei ole sidonnaisuuksia tarjoajaan.
