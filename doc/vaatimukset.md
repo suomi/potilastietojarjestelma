@@ -11,6 +11,7 @@
 - Toteutettu ohjelmisto on lisensoitava soveltuvin osin GPL tai LGPL lisensseillä. Tarvittaessa lisensointi voidaan suorittaa valmiin tuotoksen luovutusvaiheessa.
 - Ohjelmistokehitys on tehtävä valitun agile-metodologian mukaisesti, kuitenkin enintään kolmen viikon pituisissa iteraatioissa.
 - Tarjouksen hinnoittelu on tehtävä hinta/iteraatio periaatteella. Ohjelmistokehitystiimit on määriteltävä tarjouksessa, ja kehittäjien ansioluettelot liitetään tarjoukseen.
+- Yksi tarjoaja voi tehdä tarjouksen useasta aliprojektista.
 - Product Owner tiimi, tai vastaava rooli valitussa agile-metodologiassa, sisältää sekä tilaajan, että tarjoajan edustajia. Tilaajaa edustavat roolit voidaan täyttää riippumattomilla konsulteilla, joilla ei ole sidonnaisuuksia tarjoajaan. Tarjoajan vastuulla on esitellä miten tarjottu projektimetodologia takaa sen, että lopullinen tuote vastaa loppukäyttäjien ja tilaajan mahdollisesti muuttuvia vaatimuksia.
 - Tarjoukseen sisällytetään alustava arvio tarvittavien iteraatioiden määrästä. Tilaajalla on vapaus tehdä muutoksia ohjelmiston vaatimuksiin myös myöhäisessä ohjelmistonkehityksen vaiheessa Agile-periaatteiden mukaisesti, jolloin iteraatiokierroksia tehdään lisää tarvittava määrä kunnes vaatimukset on täytetty. Tilaajalla on vapaus lopettaa projekti mihin tahansa iteraatioon.
 - Tarjottujen järjestelmien on toteutettava palvelukeskeisen arkkitehtuurin periaatteita, ja niiden on oltava yhteensopivia relevanttien yleisten standardien kanssa, kuten CCD XML.
