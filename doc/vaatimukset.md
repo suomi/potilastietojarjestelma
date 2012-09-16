@@ -13,3 +13,5 @@
 - Tarjouksen hinnoittelu on tehtävä hinta/iteraatio periaatteella. Ohjelmistokehitystiimit on määriteltävä tarjouksessa, ja kehittäjien ansioluettelot liitetään tarjoukseen.
 - Product Owner, tai vastaava rooli valitussa agile-metodologiassa, on tilaajan edustaja. Rooli voidaan täyttää riippumattomalla konsultilla, jolla ei ole sidonnaisuuksia tarjoajaan.
 - Tarjoukseen sisällytetään alustava arvio tarvittavien iteraatioiden määrästä. Tilaajalla on vapaus tehdä muutoksia ohjelmiston vaatimuksiin myös myöhäisessä ohjelmistonkehityksen vaiheessa Agile-periaatteiden mukaisesti, jolloin iteraatiokierroksia tehdään lisää tarvittava määrä kunnes vaatimukset on täytetty. Tilaajalla on vapaus lopettaa projekti mihin tahansa iteraatioon.
+- Tarjottujen järjestelmien on toteutettava palvelukeskeisen arkkitehtuurin periaatteita, ja niiden on oltava yhteensopivia relevanttien yleisten standardien kanssa, kuten CCD XML.
+- Tarjottujen järjestelmien on toteutettava Valtionvarainministeriön Julkisen Hallinnon Kokonaisarkkitehtuurin linjauksia ja vaatimuksia soveltuvni osin.
