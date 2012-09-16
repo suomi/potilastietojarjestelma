@@ -1,7 +1,7 @@
 Potilastietojärjestelmä
 =======================
 
-Suomeen ollaan toteuttamassa uutta terveydenhuollon potilastietojärjestelmää.
+Suomeen ollaan toteuttamassa uutta terveydenhuollon potilastietojärjestelmää. Täällä koottava vaihtoehtoesitys tullaan esittämään Helsingissä 2.10.2012.
 
 Ehdotus
 -------
