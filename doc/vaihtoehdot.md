@@ -1,4 +1,3 @@
-
 # Sitran selvityksessä arvioidut järjestelmät
 
 
@@ -6,6 +5,6 @@
 - soveltuuko mikään [List of open-source healthcare software -wikipedia-artikkelin](http://en.wikipedia.org/wiki/List_of_open-source_healthcare_software) mainitsema järjestelmä käyttöön?
 
 
-# terveydenhuoltojärjestelmien ulkopuoliset vaihoehdot
+# terveydenhuoltojärjestelmien ulkopuoliset vaihtoehdot
 
 
