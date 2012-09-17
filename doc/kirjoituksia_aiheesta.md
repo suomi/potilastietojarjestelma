@@ -6,6 +6,6 @@
 
 ## Tietoa Sitran ketterästä verkkosivuston hankinnasta
 
-* Sitra.fi: [Yhteiskehittelyn käytäntöä (Sitra.fi)](http://www.sitra.fi/artikkelit/2012/yhteiskehittelyn-kaytantoa-sitrafi)
-* Vierityspalkki: [Vieraskynä: Sitra tavoittelee avointa ja ketterää verkkoprojektia](http://vierityspalkki.fi/2010/02/26/vieraskyna-sitra-tavoittelee-avointa-ja-ketteraa-verkkoprojektia/)
-* Vierityspalkki: [Vieraskynä: Julkinen sektorikin voi ostaa ketterästi](http://vierityspalkki.fi/2010/12/07/julkinen-sektorikin-voi-ostaa-ketterasti/)
+* [Yhteiskehittelyn käytäntöä](http://www.sitra.fi/artikkelit/2012/yhteiskehittelyn-kaytantoa-sitrafi) (Sitra.fi)
+* [Vieraskynä: Sitra tavoittelee avointa ja ketterää verkkoprojektia](http://vierityspalkki.fi/2010/02/26/vieraskyna-sitra-tavoittelee-avointa-ja-ketteraa-verkkoprojektia/) (Vierityspalkki)
+* [Vieraskynä: Julkinen sektorikin voi ostaa ketterästi](http://vierityspalkki.fi/2010/12/07/julkinen-sektorikin-voi-ostaa-ketterasti/) (Vierityspalkki)
